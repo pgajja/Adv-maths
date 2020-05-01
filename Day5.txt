@@ -1,3 +1,6 @@
 =Rand()
 =Randbetween(l1,ul)
 hi how ru 
+
+second time typing 
+hi how r all
